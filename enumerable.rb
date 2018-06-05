@@ -72,7 +72,9 @@ module Enumerable
 
 end
 
+
 =begin 
+TESTING EACH PORTION
 puts "each: "
 [5,4,3,2,1].each { |x| print x}
 puts " "
